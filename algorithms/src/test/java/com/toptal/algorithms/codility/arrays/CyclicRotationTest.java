@@ -1,11 +1,8 @@
 package com.toptal.algorithms.codility.arrays;
 
-import com.toptal.algorithms.codility.iterations.BinaryGap;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class CyclicRotationTest {
     @Test
